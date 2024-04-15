@@ -1,0 +1,10 @@
+#include <stdio>
+int main()
+{
+int a,b,sum,mul;
+printf("enter value for a and b");
+scanf("%d %d",&a,&b);
+sum=a+b;
+mul=a*b;
+printf("%sum\n %mul", &sum\n, &mul);
+}
