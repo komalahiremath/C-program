@@ -6,5 +6,5 @@ printf("enter value for a and b");
 scanf("%d %d",&a,&b);
 sum=a+b;
 mul=a*b;
-printf("%sum\n %mul", &sum\n, &mul);
+printf("%sum\n %mul", sum, mul);
 }
